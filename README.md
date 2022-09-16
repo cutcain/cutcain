@@ -1,6 +1,6 @@
 root@cain
+
 -----------------------------------
- 
        OS  :  Windows 10 (175HZ)
     Shell  :  Windows PowerShell
  Terminal  :  Windows Command Prompt
